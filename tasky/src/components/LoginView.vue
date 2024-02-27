@@ -1,7 +1,7 @@
 <template>
 <!-- component -->
 <!-- This is an example component -->
-<form id="" class="justify-center items-center w-full shadow rounded-lg bg-white px-6 flex flex-col md:w-1/2 lg:w-1/3 m-auto">
+<form id="whoobe-t7qyk" class="justify-center items-center w-full shadow rounded-lg bg-white px-6 flex flex-col md:w-1/2 lg:w-1/3 m-auto">
     <h2 class="text-2xl my-4">Login</h2>
 			<div id="whoobe-h90kl" class="w-full p-2 justify-start flex flex-col">
 				<div id="whoobe-7izhv" class=" flex flex-row">
